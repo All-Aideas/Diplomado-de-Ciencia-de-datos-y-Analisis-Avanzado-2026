@@ -50,6 +50,17 @@ No desplegar directamente. Reentrenar con datos actuales y realizar un piloto A/
     └── Informe_Final_Proyecto_Integrador.pdf / .docx
 ```
 
+## Material de referencia y ejemplos
+
+Además de este modelo de cátedra, el curso cuenta con material de referencia que **no se publica en este repositorio**:
+
+- **Consigna oficial** del Proyecto Final Integrador (UTN.BA), con la estructura de la pre-entrega, del informe final y los criterios de evaluación.
+- **Dos trabajos finales de ejemplo** de cohortes anteriores, calificados con la nota máxima:
+  - predicción de alteraciones del orden en el sistema penitenciario (clasificación multiclase con validación temporal);
+  - predicción de malas reseñas en e-commerce (ranking con Recall @ 30 %, calibración y SHAP).
+
+Estos ejemplos contienen datos de sus autores y material institucional. Por eso se comparten solo por los canales del curso: consultalos con el equipo docente.
+
 ## Cómo ejecutar
 
 ### Google Colab
