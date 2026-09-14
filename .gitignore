@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+# El dataset se descarga desde UCI al ejecutar el notebook
+data/*.csv
+data/*.zip

@@ -1,0 +1,4 @@
+escenario,Recall@30,llamadas_evitadas,ahorro_campania_USD,beneficio_neto_anio1_USD
+Meta de diseño (70 %),0.7,16400,19680,6920
+Test estable (Random Forest),0.728448275862069,17566,21080,8320
+Test temporal (Random Forest),0.5285545490350532,9371,11245,-1515

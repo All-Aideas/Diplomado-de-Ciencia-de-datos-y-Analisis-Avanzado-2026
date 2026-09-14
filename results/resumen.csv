@@ -1,0 +1,9 @@
+,valor
+modelo_candidato_provisional,Random Forest
+cv_PR_AUC,0.466
+test_PR_AUC,0.485
+test_Recall@30,0.7284
+temporal_PR_AUC,0.5383
+temporal_Recall@30,0.5286
+prevalencia_train_temporal,0.0638
+prevalencia_test_temporal,0.3083
